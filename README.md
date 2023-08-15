@@ -9,6 +9,14 @@ This project is an *unofficial*, community-driven effort.
 This work is under active development (pre-alpha) and the API is expected to
 change. It's not considered ready for use in production.
 
+## Links
+
+Additional Rust SDKs for exchanges:
+
+- [XRPL SDK for Rust](https://github.com/gmosx/xrpl-sdk-rust)
+- [Kraken SDK for Rust](https://github.com/gmosx/kraken-sdk-rust)
+- [Bitstamp SDK for Rust](https://github.com/gmosx/bitstamp-sdk-rust)
+
 ## Contributing
 
 Pull requests, issues and comments are welcome! Make sure to add tests for new features and bug fixes.
@@ -19,4 +27,4 @@ This work is licensed under the Apache-2.0 License. See [LICENSE.txt](LICENSE.tx
 
 ## Copyright
 
-Copyright © 2023 [Georgios Moschovitis](https://gmosx.ninja).``
+Copyright © 2023 [Georgios Moschovitis](https://gmosx.ninja).
