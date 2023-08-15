@@ -1,4 +1,4 @@
-use binance_client_ws::{api::subscribe::Levels, client::Client};
+use binance_ws_client::{api::subscribe::Levels, Client};
 use futures::StreamExt;
 
 #[tokio::main]

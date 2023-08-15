@@ -1,3 +1,3 @@
 [workspace]
 
-members = ["binance_client_ws"]
+members = ["binance_ws_client"]

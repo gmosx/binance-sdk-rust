@@ -1,9 +1,9 @@
 [package]
-name = "binance_client_ws"
-description = "A Rust SDK for working with the Binance API"
-version = "0.1.0"
+name = "binance_ws_client"
+description = "A Rust client for the Binance WebSocket API"
+version = "0.2.0"
 license = "Apache-2.0"
-repository = "https://github.com/gmosx/binance_sdk_rust/tree/main/binance_client_ws"
+repository = "https://github.com/gmosx/binance-sdk-rust/tree/main/binance_client_ws"
 keywords = ["binance", "websocket", "client"]
 authors = ["Georgios Moschovitis <george.moschovitis@gmail.com>"]
 edition = "2021"
